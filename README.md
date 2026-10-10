@@ -1,4 +1,4 @@
 # FirstProject_Demo
 This is my first git repository.
 <br>
-Author - Raviranjan Kumar.
+Author - Raviranjan Thakur.
